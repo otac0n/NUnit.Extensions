@@ -6,3 +6,7 @@
 *.docstates
 Thumbs.db
 *.Publish.xml
+
+*.nupkg
+!packages/*.nupkg
+!packages/**/*.nupkg
