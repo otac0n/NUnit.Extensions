@@ -6,6 +6,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0E5A2438-FAFF-41F8-8ED5-3EC1B1F40ABF}"
 	ProjectSection(SolutionItems) = preProject
 		License.txt = License.txt
+		Readme.md = Readme.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nunit.extensions.samples", "nunit.extensions.samples\nunit.extensions.samples.csproj", "{98BFD07A-2AE2-42DA-A39D-CA9276046F64}"
