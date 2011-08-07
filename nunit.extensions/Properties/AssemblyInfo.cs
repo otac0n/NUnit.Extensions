@@ -8,10 +8,11 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("nunit.extensions")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Community extensions for NUnit")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyProduct("nunit.extensions")]
 [assembly: AssemblyCopyright("Copyright © John Gietzen 2011\r\nAll rights reserved.")]
+[assembly: AssemblyCompany("John Gietzen")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
