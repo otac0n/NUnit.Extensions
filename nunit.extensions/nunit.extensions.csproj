@@ -39,6 +39,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Expectation.cs" />
+    <Compile Include="ExpressionConstraint`1.cs" />
+    <Compile Include="Is`1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
